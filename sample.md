@@ -1,4 +1,1 @@
-This is a first line.
-This is a second line.
-This is a third line.
-And this is fourth.
+Hello, I am a software application developer.
